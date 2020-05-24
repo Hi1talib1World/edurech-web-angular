@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "edurech-web-angular"
+    }
+  },
+  "defaultProject": "edurech-web-angular",
+  "cli": {
+    "analytics": "14bf5360-8557-4e11-a5b1-ea014a5759b4"
+  }
 }
