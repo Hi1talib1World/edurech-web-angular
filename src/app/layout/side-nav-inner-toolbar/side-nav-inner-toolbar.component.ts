@@ -1,5 +1,5 @@
 import { Component, OnInit, NgModule, Input, ViewChild } from '@angular/core';
-import { SideNavigationMenuModule } from '../../shared/components';
+import { SideNavigationMenuModule } from '../';
 import { DxDrawerModule } from 'devextreme-angular/ui/drawer';
 import { DxScrollViewModule, DxScrollViewComponent } from 'devextreme-angular/ui/scroll-view';
 import { DxToolbarModule } from 'devextreme-angular/ui/toolbar';
